@@ -16,7 +16,7 @@
  * @link       https://nested.net
  */
 
-namespace Nestednet\Gocardless;
+namespace Adman9000\Gocardless;
 
 use GoCardlessPro\Client;
 use Illuminate\Support\Facades\Route;
