@@ -10,7 +10,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nested",
+      "name": "Adam",
       "email": "adam@diligencegroup.co.uk",
       "homepage": "https://www.diligencegroup.co.uk"
     }
@@ -25,16 +25,16 @@
   },
   "autoload": {
     "psr-4": {
-      "Nestednet\\Gocardless\\": "src/"
+      "Adman9000\\Gocardless\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Nestednet\\Gocardless\\GocardlessServiceProvider"
+        "Adman9000\\Gocardless\\GocardlessServiceProvider"
       ],
       "aliases": {
-        "Gocardless": "Nestednet\\Gocardless\\Facades\\Gocardless"
+        "Gocardless": "Adman9000\\Gocardless\\Facades\\Gocardless"
       }
     }
   },
