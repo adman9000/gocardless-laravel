@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "php": ">=8.3",
+    "php": ">=8.2",
     "illuminate/support": ">=10",
     "gocardless/gocardless-pro": "^5.7"
   },
