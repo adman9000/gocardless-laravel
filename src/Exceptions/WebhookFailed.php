@@ -6,10 +6,10 @@
  * Time: 13:07
  */
 
-namespace Nestednet\Gocardless\Exceptions;
+namespace Adman9000\Gocardless\Exceptions;
 
 use Exception;
-use Nestednet\Gocardless\GocardlessWebhookCall;
+use Adman9000\Gocardless\GocardlessWebhookCall;
 
 class WebhookFailed extends Exception
 {
