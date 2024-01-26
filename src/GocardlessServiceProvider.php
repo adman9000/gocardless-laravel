@@ -43,7 +43,7 @@ class GocardlessServiceProvider extends ServiceProvider
         }
 
         Route::macro('gocardlessWebhooks', function ($url) {
-            return Route::post($url, '\Nestednet\Gocardless\Controllers\GocardlessWebhookController');
+            return Route::post($url, '\Adman9000\Gocardless\Controllers\GocardlessWebhookController');
         });
     }
 
