@@ -6,12 +6,12 @@
  * Time: 13:07
  */
 
-namespace Nestednet\Gocardless\Controllers;
+namespace Adman9000\Gocardless\Controllers;
 
 use Exception;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
-use Nestednet\Gocardless\Middlewares\VerifySignature;
+use Adman9000\Gocardless\Middlewares\VerifySignature;
 
 class GocardlessWebhookController extends Controller
 {
