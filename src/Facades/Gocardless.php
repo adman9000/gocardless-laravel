@@ -16,7 +16,7 @@
  * @link       https://nested.net
  */
 
-namespace Nestednet\Gocardless\Facades;
+namespace Adman9000\Gocardless\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
